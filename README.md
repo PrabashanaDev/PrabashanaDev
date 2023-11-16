@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chathura Prabashana ( @PrabashanaDev )
+- 👋 Hello there, I’m Chathura Prabashana ( @PrabashanaDev )
 - 👀 I’m interested in Software Engineering, Software development and Audio software design.
 - 🌱 I’m currently learning Computer Science at Freecodecamp and Saylor.org
 - 📫 How to reach me- Just drop a Email to me or contact me through socials
