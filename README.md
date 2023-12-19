@@ -1,6 +1,6 @@
 - 👋 Hello there, I’m Chathura Prabashana ( @PrabashanaDev )
-- 👀 I’m interested in Software Engineering, Software development and Audio software design.
-- 🌱 I’m currently learning Computer Science at Freecodecamp and Saylor.org
+- 👀 I’m interested in Cyber Security ( Hacking,SOC ) and Netwoking
+- 🌱 I’m currently learning at Freecodecamp and TryHackMe.
 - 📫 How to reach me- Just drop a Email to me or contact me through socials
   
 
