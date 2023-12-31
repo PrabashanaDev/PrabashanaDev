@@ -6,7 +6,7 @@
  - 📫 In below I will post my blogs where you can learn new things.
  - - NetWizshare
    - NetWizWorks
-- I'm upto join charity projects. For that contact me using socials or Email.
+- I'm upto join charity projects🥰. For that contact me using socials or Email☎.
 
 
 
