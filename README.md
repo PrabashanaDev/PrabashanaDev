@@ -42,7 +42,7 @@ Check out my recent repositories and contributions on [GitHub](https://github.co
 
 ### 🏆 TryHackMe Stats
 
-<!-- Replace USERNAME with your TryHackMe username for a dynamic badge! -->
+
 ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/TekkaOfficial.png)
 
 ---
