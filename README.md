@@ -31,15 +31,6 @@ Check out my recent repositories and contributions on [GitHub](https://github.co
 
 ---
 
-### 🛠️ Skills
-
-- DevOps Tools & Practices
-- Python | C++
-- Database Design & Management
-- Security & Ethical Hacking
-
----
-
 ### 🏆 TryHackMe Stats
 
 
@@ -50,14 +41,6 @@ Check out my recent repositories and contributions on [GitHub](https://github.co
 ### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/chathura-prabashana/)
-
----
-
-### 🎮 Fun Facts
-
-- 🕵️‍♂️ Hacking is my jam!
-- 🎮 Gaming fuels my creativity
-- 🛠️ Always learning, always developing
 
 ---
 
