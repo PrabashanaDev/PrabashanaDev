@@ -42,13 +42,13 @@ Check out my recent repositories and contributions on [GitHub](https://github.co
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/chathura-prabashana/)
 [![Instagram](https://img.shields.io/badge/-Instagram-purple?logo=instagram&style=flat-square)](https://www.instagram.com/chathura_prabashana/)
-![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fc_prabashana)
+[![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fc_prabashana)](https://x.com/c_prabashana)
 
 
 
 ---
 
-![GitHub followers](https://img.shields.io/github/followers/PrabashanaDev)
+[![GitHub followers](https://img.shields.io/github/followers/PrabashanaDev)](https://github.com/PrabashanaDev)
 
 
 *Let’s connect and build something amazing!*
