@@ -41,7 +41,11 @@ Check out my recent repositories and contributions on [GitHub](https://github.co
 ### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/chathura-prabashana/)
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?logo=instagram&style=flat-square)](https://www.instagram.com/chathura_prabashana/)
 
 ---
+
+![GitHub followers](https://img.shields.io/github/followers/PrabashanaDev)
+
 
 *Let’s connect and build something amazing!*
