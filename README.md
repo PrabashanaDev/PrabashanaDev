@@ -42,6 +42,9 @@ Check out my recent repositories and contributions on [GitHub](https://github.co
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/chathura-prabashana/)
 [![Instagram](https://img.shields.io/badge/-Instagram-purple?logo=instagram&style=flat-square)](https://www.instagram.com/chathura_prabashana/)
+![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fc_prabashana)
+
+
 
 ---
 
